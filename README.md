@@ -1,5 +1,6 @@
 # Time_series_forcasting
-This repository contain the time series forcasting prediction algorithms
+This repository contain the time series forcasting prediction algorithm for APPLE stock prediction.
+
 
 
 
