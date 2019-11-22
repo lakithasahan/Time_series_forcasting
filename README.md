@@ -1,4 +1,4 @@
-# Time_series_forcasting
+# Time_series_forcasting using ARIMA
 This repository contain the time series forcasting prediction algorithm for APPLE stock prediction.
 
 
